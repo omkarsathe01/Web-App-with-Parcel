@@ -1,0 +1,16 @@
+{
+  "name": "web-app-with-parcel",
+  "version": "1.0.0",
+  "description": "Parcel.js is an open-source bundler.",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build --dist-dir public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Omkar Sathe (omkarsathe.pers@gmail.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}

@@ -1,0 +1,8 @@
+.*
+!.gitignore
+
+# NodeJS modules
+node_modules/
+
+#Parcel build files
+dist/
