@@ -17,6 +17,6 @@ Explain how others can contribute to your project.
 ## License
 This is open source project means it can be modified, used commercially, and distributed, however giving small credit will be appreciated.
 ## Contact
-Feel free to contact me at [omkarsathe.persgmail.com](mailto:omkarsathe.pers@gmail.com?subject=Feedback%20about%20Web%20App%20with%20Parcel!&body=Please%20share%20your%20feedback%20below:%0A%0A-------------------------------------%0A%0A[Your%20Reply%20Here]%0A%0A--------------------------------------%0A%0AGitHub%20Repository:%20https://github.com/omkarsathe01/web-app-with-parcel).
+Feel free to contact me at [omkarsathe.pers@gmail.com](mailto:omkarsathe.pers@gmail.com?subject=Feedback%20about%20Web%20App%20with%20Parcel!&body=Please%20share%20your%20feedback%20below:%0A%0A-------------------------------------%0A%0A[Your%20Reply%20Here]%0A%0A--------------------------------------%0A%0AGitHub%20Repository:%20https://github.com/omkarsathe01/web-app-with-parcel).
 ## Acknowledgements
 - [How to Bundle a Web App with Parcel.js](https://www.digitalocean.com/community/tutorials/how-to-bundle-a-web-app-with-parcel-js)
